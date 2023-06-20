@@ -2,5 +2,7 @@
 This is made by Unity and using Invector
 
 
-https://github.com/Julius-NSRS/Shooter/assets/117982988/ee8ce27a-d4d5-4096-9780-fad2b5c2969e
 
+
+![Uploading bandicam 2023-04-27 12-56-06-635.mp4_thumbs_2023.06.20.11_25_56.jpg…]()
+![Uploading bandicam 2023-04-27 12-56-06-635.mp4_thumbs_2023.06.20.11_26_27.jpg…]()
