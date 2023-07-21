@@ -2,7 +2,4 @@
 This is made by Unity and using Invector
 
 
-
-
-![Uploading bandicam 2023-04-27 12-56-06-635.mp4_thumbs_2023.06.20.11_25_56.jpg…]()
-![Uploading bandicam 2023-04-27 12-56-06-635.mp4_thumbs_2023.06.20.11_26_27.jpg…]()
+![u-2](https://github.com/Bbutterflier/Shooter/assets/117982988/1336a6ec-b903-4578-80cc-ac9ff9d06009)
